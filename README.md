@@ -11,3 +11,9 @@ AI productivity workflows and automation ideas
 ## Goal
 
 Sharing practical AI usage examples and workflow ideas for everyday professional tasks.
+## Practical Use Cases
+
+- Report generation
+- Meeting summaries
+- Knowledge management
+- Process improvement
